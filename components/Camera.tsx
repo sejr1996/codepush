@@ -77,7 +77,7 @@ export default function Camera() {
         }} />
       <View style={{ flex: 0, flexDirection: 'row', justifyContent: 'center' }}>
         <TouchableOpacity onPress={takePicture} style={styles.capture}>
-          <Text style={{ fontSize: 14 }}> SNAPkk </Text>
+          <Text style={{ fontSize: 14 }}> SNAP </Text>
         </TouchableOpacity>
       </View>
     </View>
